@@ -1,10 +1,10 @@
 var versionElementConsole = document.querySelector('#versionTextConsole');
 
 // versionElementConsole.textContent = "New Version";
-versionElementConsole.textContent = "2.0";
+versionElementConsole.textContent = "3.0";
 
 
 
 // ================================
 console.log('index.js');
-console.log('version2');
+console.log('version3');
